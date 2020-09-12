@@ -1,6 +1,8 @@
 # Write-Ups
 Write-ups prepared during various courses, events and organizations.
 
+## Uncompleted writes up are in .rtf format. Later on they will converted into .pdf.
+
 ## Courses 
 * Zararlı Yazılım Analizine Giriş - LKK20
 
